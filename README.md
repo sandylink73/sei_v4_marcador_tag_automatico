@@ -29,7 +29,7 @@ selenium
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/sei-automation.git
+git clone https://github.com/alemiti7/sei_v4_multi-atribuidor-automatico.git
 ```
 
 2. Instale as dependências
