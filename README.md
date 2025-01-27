@@ -128,4 +128,4 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 * Um agradecimento publicamente 🤓
 
 ---
-⌨️ com ❤️ por [seu-usuario](https://github.com/seu-usuario) 😊
+⌨️ com ❤️ por [@alemiti7]([https://github.com/alemiti7]) 😊
