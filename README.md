@@ -5,10 +5,9 @@ Este projeto automatiza a atribuição de processos no Sistema Eletrônico de In
 ## 🚀 Funcionalidades
 
 - Login automatizado no sistema SEI
-- Navegação automática entre páginas de processos
-- Atribuição automática de processos baseada em critérios específicos
-- Processamento de múltiplas páginas
+- Atribuição automática de processos para múltiplos usuários e múltiplos TIPOS de processo
 - Contagem e relatório de atribuições realizadas
+- Pode ser executado pelo cron, em determinados horários
 
 ## 📋 Pré-requisitos
 
@@ -102,7 +101,7 @@ O script fornece logs detalhados de suas operações, incluindo:
 - Progresso da navegação entre páginas
 - Contagem de atribuições por termo
 - Erros e exceções encontrados
-- Resumo final das operações realizadas
+- Resumo final das operações realizadas e data atual
 
 ## 🤝 Contribuindo
 
