@@ -12,7 +12,7 @@ Testado no ambiente de teste SEI versão 4.0.11
 - Login automatizado no sistema SEI
 - Atribuição automática de processos para múltiplos usuários e múltiplos TIPOS de processo
 - Contagem e relatório de atribuições realizadas
-- Pode ser executado pelo cron, em determinados horários
+- Pode ser executado pelo cron (Linux, Macos) ou Agendador de Tarefas (Windows) em pré-determinados horários.
 
 ## 📋 Pré-requisitos
 
@@ -110,13 +110,9 @@ O script fornece logs detalhados de suas operações, incluindo:
 
 ## 🤝 Contribuindo
 
-Contribuições são bem-vindas!
-
 Formas de contribuir:
-Reportar bugs
-Sugerir melhorias
-Enviar pull requests
-Compartilhar scripts de automação do SEI!
+- Sugerir melhorias e reportar bugs
+- Compartilhar scripts de automação do SEI!
 
 ## ✒️ Autores
 
