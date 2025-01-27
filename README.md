@@ -110,26 +110,23 @@ O script fornece logs detalhados de suas operações, incluindo:
 
 ## 🤝 Contribuindo
 
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a Branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
+Contribuições são bem-vindas!
+
+Formas de contribuir:
+Reportar bugs
+Sugerir melhorias
+Enviar pull requests
+Compartilhar scripts de automação do SEI!
 
 ## ✒️ Autores
 
 * ** Alexandre Mitsuru Nikaitow** - *Desenvolvimento Inicial* - https://github.com/alemiti7
-  
+
+📞 Contato
+Alexandre
+📧 alemiti@gmail.com
+⌨️ com ❤️ por [@alemiti7]([https://github.com/alemiti7]) 😊
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
-
-## 🎁 Expressões de Gratidão
-
-* Compartilhe este projeto 📢
-* Convide alguém da equipe para uma café ☕ 
-* Um agradecimento publicamente 🤓
-
----
-⌨️ com ❤️ por [@alemiti7]([https://github.com/alemiti7]) 😊
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
