@@ -103,7 +103,7 @@ driver.execute_script("arguments[0].click();", checkbox)
 
 ## 📊 Logs e Monitoramento
 
-O script fornece logs detalhados de suas operações, incluindo:
+O script fornece logs detalhados de suas operações gerando o arquivo script_log.log, contendo:
 - Progresso da navegação entre páginas
 - Contagem de atribuições por termo
 - Erros e exceções encontrados
