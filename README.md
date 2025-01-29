@@ -37,22 +37,23 @@ git clone https://github.com/alemiti7/sei_v4_multi-atribuidor-automatico.git
 pip install -r requirements.txt
 ```
 
-3. Configure o arquivo de credenciais
-Crie um arquivo `credentials_v4.txt` com suas credenciais:
+3. Configure o arquivo de credenciais, criando o arquivo .env
+
 ```
-seu_usuario
-sua_senha
+SEI_URL=https://sei.orgao1.tramita.processoeletronico.gov.br/
+USERNAME=usuariobasicoseiorgao101
+PASSWORD=usuariobasicoseiorgao101
 ```
 
 ## ⚙️ Configuração
 
-O script pode ser configurado através do dicionário `termos_acoes` no arquivo principal. Exemplo:
+O script pode ser configurado através do dicionário `termos_acoes.json` no arquivo principal. Exemplo:
 
 ```python
-termos_acoes = {
-    "Pessoal: Curso de Pós-Graduação": {"atributo": "ORGAO1"},
-    "Material: Inventário de Material Permanente": {"atributo": "usuario1"},
-    "Arrecadação: Receita": {"atributo": "usuariobasicoseiorgao101"},
+{
+    "Demanda Externa: Orgãos Governamentais Municipais": {"atributo": "usuariobasicoseiorgao101"},
+    "Gestão e Controle: Coordenação - Demandas Externas": {"atributo": "usuariobasicoseiorgao101"},
+    "Licitação: Consulta": {"atributo": "usuariobasicoseiorgao101"}
 }
 ```
 
