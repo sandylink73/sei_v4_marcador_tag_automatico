@@ -4,7 +4,6 @@ Versão 1.01 acesse https://github.com/alemiti7/sei_v4_multi-atribuidor-automati
 Este projeto automatiza a atribuição de processos no Sistema Eletrônico de Informações (SEI) versão 4, utilizando Selenium WebDriver para Python.
 
 Testado no ambiente de teste SEI versão 4.0.11 
-* Módulo versão 3.3.0
 * URL: https://sei.orgao1.tramita.processoeletronico.gov.br/
 * Usuário e senha: usuariobasicoseiorgao101
 
