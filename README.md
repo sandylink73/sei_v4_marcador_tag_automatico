@@ -1,5 +1,5 @@
 # SEI versão 4 Multi-atribuidor automático de processos
-
+Versão 1.0
 Este projeto automatiza a atribuição de processos no Sistema Eletrônico de Informações (SEI) versão 4, utilizando Selenium WebDriver para Python.
 
 Testado no ambiente de teste SEI versão 4.0.11 
