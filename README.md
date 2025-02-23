@@ -1,8 +1,6 @@
 # SEI versão 4 Multi-atribuidor automático de processos
 Automatiza a atribuição de processos a um ou mais usuários no SEI versão 4
 
-Versão mais recente 1.01 acesse https://github.com/alemiti7/sei_v4_multi-atribuidor-automatico/releases/tag/Lateste
-
 Este projeto automatiza a atribuição de processos no Sistema Eletrônico de Informações (SEI) versão 4, utilizando Selenium WebDriver para Python.
 
 Testado no ambiente de teste SEI versão 4.0.11 
