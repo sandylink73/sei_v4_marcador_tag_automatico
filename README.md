@@ -5,7 +5,8 @@ Este projeto automatiza a atribuição de processos no Sistema Eletrônico de In
 Testado no ambiente de teste SEI versão 4.0.11 
 * Módulo versão 3.3.0
 * URL: https://sei.orgao1.tramita.processoeletronico.gov.br/
-* Usuário e senha: usuariobasicoseiorgao101
+
+![image](https://github.com/user-attachments/assets/32956465-4fa2-4d8a-adfe-9ac78f92e60c)
 
 ## 🚀 Funcionalidades
 
@@ -38,7 +39,7 @@ pip install -r requirements.txt
 ```
 
 3. Configure o arquivo de credenciais, criando o arquivo .env
-
+Exemplo de teste:
 ```
 SEI_URL=https://sei.orgao1.tramita.processoeletronico.gov.br/
 USERNAME=usuariobasicoseiorgao101
@@ -108,6 +109,9 @@ O script fornece logs detalhados de suas operações gerando o arquivo script_lo
 - Contagem de atribuições por termo
 - Erros e exceções encontrados
 - Resumo final das operações realizadas e data atual
+
+  ![image](https://github.com/user-attachments/assets/eeb53645-219a-4df0-8d85-6f8c2cc9b47e)
+
 
 ## 🤝 Contribuindo
 
