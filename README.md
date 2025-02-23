@@ -52,9 +52,9 @@ O script pode ser configurado através do dicionário `termos_acoes.json` no arq
 
 ```python
 {
-    "Demanda Externa: Orgãos Governamentais Municipais": {"atributo": "usuariobasicoseiorgao101"},
-    "Gestão e Controle: Coordenação - Demandas Externas": {"atributo": "usuariobasicoseiorgao101"},
-    "Licitação: Consulta": {"atributo": "usuariobasicoseiorgao101"}
+    "Demanda Externa: Orgãos Governamentais Municipais": {"atributo": "usuariobasicoseiorgao101 - Usuário Básico SEI Ambiente 1 Número 01"},
+    "Gestão e Controle: Coordenação - Demandas Externas": {"atributo": "usuariobasicoseiorgao101 - Usuário Básico SEI Ambiente 1 Número 01"},
+    "Licitação: Consulta": {"atributo": "uusuariobasicoseiorgao101 - Usuário Básico SEI Ambiente 1 Número 01"}
 }
 ```
 
