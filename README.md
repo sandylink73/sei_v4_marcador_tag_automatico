@@ -8,6 +8,8 @@ Dados de acesso fornecidos pelo site <a href="https://www.gov.br/gestao/pt-br/as
 
 [![image](https://github.com/user-attachments/assets/32956465-4fa2-4d8a-adfe-9ac78f92e60c)]([https://www.youtube.com/watch?v=vc488Y)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWjCjvc488Y?si=iVPDj96pSTDqdhpD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 🚀 Funcionalidades
 
 - Login automatizado no sistema SEI
