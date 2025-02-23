@@ -1,10 +1,10 @@
 # SEI versão 4 Multi-atribuidor automático de processos
 
-Este projeto automatiza a atribuição de processos no Sistema Eletrônico de Informações (SEI) versão 4, utilizando Selenium WebDriver para Python.
+Este projeto automatiza a atribuição de processos no Sistema Eletrônico de Informações (SEI) versão 4.
 
-Testado no ambiente de teste SEI versão 4.0.11, dados fornecidos pelo site <a href="https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/noticias/2023/tramita-gov-br-lanca-quatro-novos-ambientes-de-teste-para-orgaos-e-entidades-em-processo-de-implantacao-da-plataforma">Tramita GOV.BR - Ministério da Gestão e da Inovação de Serviços Públicos</a>
+Elaborado no Ambiente de teste público SEI versão 4.0.11, https://sei.orgao1.tramita.processoeletronico.gov.br/
 
-* URL: https://sei.orgao1.tramita.processoeletronico.gov.br/
+Dados de acesso fornecidos pelo site <a href="https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/noticias/2023/tramita-gov-br-lanca-quatro-novos-ambientes-de-teste-para-orgaos-e-entidades-em-processo-de-implantacao-da-plataforma">Tramita GOV.BR - Ministério da Gestão e da Inovação de Serviços Públicos</a>
 
 ![image](https://github.com/user-attachments/assets/32956465-4fa2-4d8a-adfe-9ac78f92e60c)
 
@@ -38,8 +38,8 @@ git clone https://github.com/alemiti7/sei_v4_multi-atribuidor-automatico.git
 pip install -r requirements.txt
 ```
 
-3. Configure o arquivo de credenciais, criando o arquivo .env
-Exemplo de teste:
+3. Exemplo de teste, configure o arquivo de credenciais, criando o arquivo .env
+
 ```
 SEI_URL=https://sei.orgao1.tramita.processoeletronico.gov.br/
 USERNAME=usuariobasicoseiorgao101
