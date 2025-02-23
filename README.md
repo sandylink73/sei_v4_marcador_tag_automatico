@@ -2,8 +2,8 @@
 
 Este projeto automatiza a atribuição de processos no Sistema Eletrônico de Informações (SEI) versão 4, utilizando Selenium WebDriver para Python.
 
-Testado no ambiente de teste SEI versão 4.0.11 
-* Módulo versão 3.3.0
+Testado no ambiente de teste SEI versão 4.0.11, dados fornecidos pelo site <a href="https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/noticias/2023/tramita-gov-br-lanca-quatro-novos-ambientes-de-teste-para-orgaos-e-entidades-em-processo-de-implantacao-da-plataforma">Tramita GOV.BR - Ministério da Gestão e da Inovação de Serviços Públicos</a>
+
 * URL: https://sei.orgao1.tramita.processoeletronico.gov.br/
 
 ![image](https://github.com/user-attachments/assets/32956465-4fa2-4d8a-adfe-9ac78f92e60c)
