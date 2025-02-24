@@ -308,13 +308,17 @@ def main():
         fazer_login(driver, url, username, password)
         contadores = realizar_atribuicoes(driver, termos_acoes)
 
-        print("\n" + "="*50)
-        print(obter_data_atual_formatada())
+        # Formatação e apresentação de data
+        data_formatada = obter_data_atual_formatada()
+        print(f"==== {data_formatada} ====")
+
         log_and_print("Script SEI executado com sucesso!")
         print("\nResumo das atribuições realizadas:")
         for termo, contador in contadores.items():
             print(f"- {contador} atribuições para '{termo}'")
-        print("="*50)
+        #print("="*50)
+        print()
+        
     except Exception as e:
         log_and_print(f"Erro durante a execução: {str(e)}")
         logging.error("Stacktrace completo:", exc_info=True)
