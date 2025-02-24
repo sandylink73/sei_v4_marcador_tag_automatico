@@ -41,7 +41,7 @@ git clone https://github.com/alemiti7/sei_v4_multi-atribuidor-automatico.git
 pip install -r requirements.txt
 ```
 
-3. Exemplo de teste, configure o arquivo de credenciais, criando o arquivo .env
+3. Exemplo de teste, configure o arquivo de credenciais, criando o arquivo `.env`
 
 ```
 SEI_URL=https://sei.orgao1.tramita.processoeletronico.gov.br/
@@ -72,7 +72,7 @@ O script pode ser configurado através do dicionário `termos_acoes.json` no arq
 
 ## 🖥️ Uso
 
-Execute o script principal:
+Execute o script principal `main.py`:
 ```bash
 python main.py
 ```
@@ -116,13 +116,19 @@ driver.execute_script("arguments[0].click();", checkbox)
 
 ## 📊 Logs e Monitoramento
 
-O script fornece logs detalhados de suas operações gerando o arquivo script_log.log, contendo:
+O script fornece logs detalhados de suas operações gerando o arquivo `script_log.log` contendo:
 - Progresso da navegação entre páginas
 - Contagem de atribuições por termo
 - Erros e exceções encontrados
-- Resumo final das operações realizadas e data atual
 
-  ![image](https://github.com/user-attachments/assets/eeb53645-219a-4df0-8d85-6f8c2cc9b47e)
+ ![image](https://github.com/user-attachments/assets/773fea1d-b359-4913-ac40-67d6025eada6)
+
+
+
+- Data atual e resumo final das operações realizadas serão exibidas no terminal:
+
+ ![image](https://github.com/user-attachments/assets/c13fef34-89ff-41c4-8f75-47ace6a08d76)
+
 
 
 ## 🤝 Contribuindo
